@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "budgetku",
+    "name": "BudgetKu",
     "slug": "budgetku",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -32,6 +32,7 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
+      
       ]
     ],
     "experiments": {
